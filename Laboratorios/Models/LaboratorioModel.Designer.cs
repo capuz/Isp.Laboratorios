@@ -1,4 +1,4 @@
-﻿// La generación de código T4 está habilitada para el modelo 'C:\misdocumentos\Visual Studio 2013\Projects\Isp.Laboratorios\Laboratorios\Models\LaboratorioModel.edmx'. 
+﻿// La generación de código T4 está habilitada para el modelo 'C:\Users\fcapu\Downloads\Isp.Laboratorios\Isp.Laboratorios\Laboratorios\Models\LaboratorioModel.edmx'. 
 // Para habilitar la generación de código heredada, cambie el valor de la propiedad del diseñador 'Estrategia de generación de código'
 // por 'ObjectContext heredado'. Esta propiedad está disponible en la ventana Propiedades cuando se abre
 // el modelo en el diseñador.
